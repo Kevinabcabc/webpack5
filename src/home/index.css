@@ -1,0 +1,10 @@
+body {
+  color: red;
+}
+
+body #home {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,10 @@
+$body-color: red;
+
+body {
+  color: $body-color;
+  #home {
+    width: 100px;
+    height: 100px;
+    background: red;
+  }
+}
